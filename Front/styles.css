@@ -1,0 +1,91 @@
+body
+{
+	margin-bottom:80px;
+	font:verdana;
+}
+
+.page-header
+{
+	margin-top:0;
+}
+
+.panel-body
+{
+	padding-top:0;
+}
+
+.featuredImg
+{
+	margin-bottom:15px;
+}
+
+.navbar
+{
+color:#D6D6FF;
+}
+
+.jumbotron { min-height: 400px;font:verdana; }
+
+sup{
+	color:red;
+	
+}
+.quiz
+{
+	display:none;
+	text-align: center;
+	border: 1px;
+	border-style:dashed;
+	border-radius:20px;
+	margin-top: 30px;
+	
+}
+	
+input:checked 
+{
+    height: 25px;
+    width: 25px;
+	color:blue;
+} 
+
+ul
+{
+list-style:none;
+}
+
+td,tr
+{
+padding: 20px;
+cell-spacing: 20px;
+}
+
+
+table
+{
+font:verdana;
+padding: 20px;
+}
+.profquiz
+{
+table-layout:fixed;
+width:70%;
+font-size:22px;
+}
+
+.confirm
+{
+width:120px;
+}
+
+.right
+{
+font-weight:bold;
+color:green;
+}
+
+.wrong
+{
+font-weight:bold;
+color: red;
+}
+
